@@ -1,3 +1,5 @@
+[![@zain2323's Holopin board](https://holopin.io/api/user/board?user=zain2323)](https://holopin.io/@zain2323)
+
 <h1 align="center">Hi 👋, I'm Zain Siddiqui</h1>
 <h3 align="center">A passionate backend developer</h3>
 
@@ -5,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zain2323" alt="zain2323" /></a> </p>
 
-- 🌱 I’m currently learning **Flask, React**
+- 🌱 I’m currently learning **Django, React and Websockets**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
