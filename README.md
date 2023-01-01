@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create a virtual machine using KVM &lpar;Ubuntu 22.04 LTS&rpar;](https://medium.com/@zainsiddiqui2323/how-to-create-a-virtual-machine-using-kvm-ubuntu-22-04-lts-270728f61300?source=rss-26ff83994441------2)
 - [Doctorly API ~ A backend solution for appointing doctors online](https://dev.to/zain2323/doctorly-api-a-backend-solution-for-appointing-doctors-online-ipn)
 - [How to transfer your files from iOS to Linux](https://dev.to/zain2323/how-to-transfer-your-files-from-ios-to-linux-3mig)
 - [How to transfer your files from iOS to Linux](https://medium.com/@zainsiddiqui2323/how-to-transfer-your-files-from-ios-to-linux-4bf6591708de?source=rss-26ff83994441------2)
