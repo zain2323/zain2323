@@ -1,7 +1,7 @@
 [![@zain2323's Holopin board](https://holopin.io/api/user/board?user=zain2323)](https://holopin.io/@zain2323)
 
 <h1 align="center">Hi 👋, I'm Zain Siddiqui</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">Aspiring Devops Engineer and backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zain2323&label=Profile%20views&color=0e75b6&style=flat" alt="zain2323" /> </p>
 
