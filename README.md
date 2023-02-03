@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Increase your followers on Medium](https://medium.com/@zainsiddiqui2323/increase-your-followers-on-medium-f2edcb5549cb?source=rss-26ff83994441------2)
+- [How to Increase your followers on Medium](https://medium.com/@zainsiddiqui2323/increase-your-followers-on-medium-f2edcb5549cb?source=rss-26ff83994441------2)
 - [Symbolic and Hard links in Linux](https://dev.to/zain2323/symbolic-and-hard-links-in-linux-95l)
 - [How to create a virtual machine using KVM on Ubuntu 22.04 LTS](https://dev.to/zain2323/how-to-create-a-virtual-machine-using-kvm-on-ubuntu-2204-lts-1aia)
 - [How to create a virtual machine using KVM &lpar;Ubuntu 22.04 LTS&rpar;](https://medium.com/@zainsiddiqui2323/how-to-create-a-virtual-machine-using-kvm-ubuntu-22-04-lts-270728f61300?source=rss-26ff83994441------2)
