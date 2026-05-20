@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Hard and Symbolic Links in Linux](https://medium.com/@zainsiddiqui2323/the-ultimate-guide-to-hard-and-symbolic-links-in-linux-e904ff601814?source=rss-26ff83994441------2)
 - [Symbolic and Hard links in Linux](https://dev.to/zain2323/symbolic-and-hard-links-in-linux-95l)
 - [How to create a virtual machine using KVM on Ubuntu 22.04 LTS](https://dev.to/zain2323/how-to-create-a-virtual-machine-using-kvm-on-ubuntu-2204-lts-1aia)
-- [How to create a virtual machine using KVM &lpar;Ubuntu 22.04 LTS&rpar;](https://medium.com/@zainsiddiqui2323/how-to-create-a-virtual-machine-using-kvm-ubuntu-22-04-lts-270728f61300?source=rss-26ff83994441------2)
 - [Doctorly API ~ A backend solution for appointing doctors online](https://dev.to/zain2323/doctorly-api-a-backend-solution-for-appointing-doctors-online-ipn)
+- [How to transfer your files from iOS to Linux](https://dev.to/zain2323/how-to-transfer-your-files-from-ios-to-linux-3mig)
+- [Prize Bond Drawer - The Lottery Managment System 🤑 💶 💰](https://dev.to/zain2323/prize-bond-drawer-the-lottery-managment-system-52i1)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
